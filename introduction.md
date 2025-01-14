@@ -1,6 +1,6 @@
 # 🖥️ **Mega Project: Baremetal Kubernetes Cluster for Game Servers and DevOps Automation** 🎮
 
-Welcome to the **Baremetal Kubernetes Cluster for Game Servers and DevOps Automation** project! 🚀
+Welcome to the **Mega Project: Kubernetes Cluster for Game Servers and DevOps Automation** project! 🚀
 
 This project focuses on deploying a fully functional **baremetal Kubernetes cluster** optimized for hosting **Minecraft servers** and other containerized applications. Through this project, we integrate modern DevOps tools and practices, including **GitOps automation** via **GitLab CI/CD pipelines**, **security scanning** with **Trivy**, **performance monitoring** using **Prometheus and Grafana**, and **persistent storage management** with **Rook/Ceph**.
 
