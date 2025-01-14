@@ -1,4 +1,4 @@
-# 🖥️ **Baremetal Kubernetes Cluster for Game Servers & DevOps Automation** 🎮
+# 🖥️ **Mega Project: Baremetal Kubernetes Cluster for Game Servers and DevOps Automation** 🎮
 
 Welcome to the **Baremetal Kubernetes Cluster for Game Servers and DevOps Automation** project! 🚀
 
