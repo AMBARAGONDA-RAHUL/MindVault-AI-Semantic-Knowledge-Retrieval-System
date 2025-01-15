@@ -129,32 +129,3 @@ For troubleshooting or further assistance, feel free to check the Kubernetes doc
 
 Proceed to [Module 2: Kubernetes Cluster Configuration](#module-2-kubernetes-cluster-configuration) to initialize the Kubernetes control plane and join worker nodes to the cluster.
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
-## Contributions
-
-We welcome contributions! Feel free to fork the repository, open an issue, or submit pull requests.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
-### Contribution Guidelines
-
-We welcome contributions! Feel free to fork the repository, open an issue, or submit pull requests.
-
----
-
-```
-
-You can copy this content and save it in a `README.md` file in your GitHub project repository. This README will help users follow along with your project by providing clear instructions for setting up the environment, including all necessary steps for software installation, configuration, and Kubernetes setup.
