@@ -96,23 +96,3 @@ For troubleshooting or further assistance, feel free to check the Kubernetes doc
 
 Proceed to [Module 3: GitOps CI/CD Pipeline Setup](#module-3-gitops-cicd-pipeline-setup) to configure the CI/CD pipeline for automated deployments and security scans.
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
-## Contributions
-
-We welcome contributions! Feel free to fork the repository, open an issue, or submit pull requests.
-
----
-
-### Contribution Guidelines
-
-We welcome contributions! Feel free to fork the repository, open an issue, or submit pull requests.
-```
-
-You can copy and paste this content into a `README.md` file for **Module 2: Kubernetes Cluster Configuration** in your GitHub repository. It includes relevant icons for each section to enhance readability and make it easier to follow the steps.
