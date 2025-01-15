@@ -76,19 +76,15 @@ The project is organized into distinct steps for easier navigation and setup. Ea
 
 ---
 
-Here's a GitHub-friendly README template for your Baremetal Kubernetes Cluster for Game Servers and DevOps Automation project. It uses modular sections with clickable links, icons, and steps:
-
-🚀 Baremetal Kubernetes Cluster for Game Servers & DevOps Automation
-
 A step-by-step guide to deploying a secure, scalable Kubernetes cluster for hosting game servers and automating DevOps workflows with GitOps, CI/CD, and advanced monitoring.
 
 📋 Table of Contents
-Module 1: Project Setup
-Module 2: Kubernetes Cluster Configuration
-Module 3: GitOps CI/CD Pipeline Setup
-Module 4: Monitoring & Metrics
-Module 5: Game Server Deployment
-Module 6: Security & Backup
+- Module 1: Project Setup
+- Module 2: Kubernetes Cluster Configuration
+- Module 3: GitOps CI/CD Pipeline Setup
+- Module 4: Monitoring & Metrics
+- Module 5: Game Server Deployment
+- Module 6: Security & Backup
 ---
 
 ### 📋 **Setup & Installation Instructions**:
