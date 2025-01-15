@@ -4,22 +4,7 @@ This project is a step-by-step guide to deploying a secure, scalable Kubernetes 
 
 ---
 
-## Table of Contents
-
-- [Module 1: Project Setup](#module-1-project-setup)
-  1. [Install Required Software](#install-required-software)
-  2. [Configure Static IPs and SSH Access](#configure-static-ips-and-ssh-access)
-  3. [Install Kubernetes Components](#install-kubernetes-components)
-
-- [Module 2: Kubernetes Cluster Configuration](#module-2-kubernetes-cluster-configuration)
-- [Module 3: GitOps CI/CD Pipeline Setup](#module-3-gitops-cicd-pipeline-setup)
-- [Module 4: Monitoring & Metrics](#module-4-monitoring--metrics)
-- [Module 5: Game Server Deployment](#module-5-game-server-deployment)
-- [Module 6: Security & Backup](#module-6-security--backup)
-
----
-
-## Module 1: Project Setup
+## ** Module 1: Project Setup **
 
 ### Introduction
 
