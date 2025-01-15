@@ -1,6 +1,3 @@
-Here is the entire README file for **Module 1: Project Setup** in a markdown format, which you can use in your GitHub project:
-
-```markdown
 # Baremetal Kubernetes Cluster for Game Servers & DevOps Automation
 
 This project is a step-by-step guide to deploying a secure, scalable Kubernetes cluster for hosting game servers and automating DevOps workflows using GitOps, CI/CD, and advanced monitoring techniques.
