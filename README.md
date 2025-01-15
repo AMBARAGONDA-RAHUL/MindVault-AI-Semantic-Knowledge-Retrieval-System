@@ -76,7 +76,7 @@ The project is organized into distinct steps for easier navigation and setup. Ea
 
 ---
 
-A step-by-step guide to deploying a secure, scalable Kubernetes cluster for hosting game servers and automating DevOps workflows with GitOps, CI/CD, and advanced monitoring.
+### **A step-by-step guide to deploying a secure, scalable Kubernetes cluster for hosting game servers and automating DevOps workflows with GitOps, CI/CD, and advanced monitoring.**
 
 📋 Table of Contents
 - Module 1: Project Setup
