@@ -8,7 +8,7 @@ This project is a step-by-step guide to deploying a secure, scalable Kubernetes 
 
 ### Introduction
 
-In this module, we will guide you through the process of setting up the necessary softwaree, configuring your Kubernetes cluster on bare metal, and preparing it for the next steps in the game server deployment and DevOps automation pipeline.
+In this module, we will guide you through the process of setting up the necessary software, configuring your Kubernetes cluster on bare metal, and preparing it for the next steps in the game server deployment and DevOps automation pipeline.
 
 ---
 
