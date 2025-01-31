@@ -79,8 +79,7 @@ The project is organized into distinct steps for easier navigation and setup. Ea
 ### **A step-by-step guide to deploying a secure, scalable Kubernetes cluster for hosting game servers and automating DevOps workflows with GitOps, CI/CD, and advanced monitoring.**
 
 📋 Table of Contents
-- [Step 1: Creating Azure Free Trial](./module_1_prerequisites/1-azure-account.md) 
-- [Module 1: Project Setup](./Module 1: Project-Setup.md).
+- [Module 1: Project Setup](./Module1:Project-Setup.md).
 - Module 2: Kubernetes Cluster Configuration
 - Module 3: GitOps CI/CD Pipeline Setup
 - Module 4: Monitoring & Metrics
