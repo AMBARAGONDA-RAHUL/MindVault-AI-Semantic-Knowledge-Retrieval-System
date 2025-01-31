@@ -84,7 +84,7 @@ The project is organized into distinct steps for easier navigation and setup. Ea
 - [Module 3: GitOps CI/CD Pipeline Setup](./Module3:GitOps-CICD-Pipeline-Setup.md)
 - [Module 4: Monitoring & Metrics](./Module4:-Monitoring-&-Metrics.md)
 - [Module 5: Game Server Deployment](./Module5:Game-Server-Deployment.md)
-- Module 6: Security & Backup
+- [Module 6: Security & Backup](./Module6:Security-&-Backup.md)
 ---
 
 ### 📋 **Setup & Installation Instructions**:
