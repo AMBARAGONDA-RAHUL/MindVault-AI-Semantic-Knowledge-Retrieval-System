@@ -80,10 +80,10 @@ The project is organized into distinct steps for easier navigation and setup. Ea
 
 📋 Table of Contents
 - [Module 1: Project Setup](./Module1:Project-Setup.md).
-- [Module 2: Kubernetes Cluster Configuration](./Module2:Kubernetes-Cluster-Configuration.md).
-- [Module 3: GitOps CI/CD Pipeline Setup](./Module3:GitOps-CICD-Pipeline-Setup.md).
-- [Module 4: Monitoring & Metrics](./Module4:-Monitoring-&-Metrics.md).
-- Module 5: Game Server Deployment
+- [Module 2: Kubernetes Cluster Configuration](./Module2:Kubernetes-Cluster-Configuration.md)
+- [Module 3: GitOps CI/CD Pipeline Setup](./Module3:GitOps-CICD-Pipeline-Setup.md)
+- [Module 4: Monitoring & Metrics](./Module4:-Monitoring-&-Metrics.md)
+- [Module 5: Game Server Deployment](./Module5:Game-Server-Deployment.md)
 - Module 6: Security & Backup
 ---
 
