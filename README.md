@@ -85,6 +85,7 @@ The project is organized into distinct steps for easier navigation and setup. Ea
 - [Module 4: Monitoring & Metrics](./Module4:-Monitoring-&-Metrics.md)
 - [Module 5: Game Server Deployment](./Module5:Game-Server-Deployment.md)
 - [Module 6: Security & Backup](./Module6:Security-&-Backup.md)
+- [Module 7:Advanced-Kubernete-Features-&-Optimizations.md](./Module7:Advanced-Kubernete-Features-&-Optimizations.md)
 ---
 
 ### 📋 **Setup & Installation Instructions**:
