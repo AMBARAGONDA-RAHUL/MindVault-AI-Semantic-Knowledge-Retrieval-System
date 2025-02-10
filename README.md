@@ -4,7 +4,7 @@ Welcome to the **Mega Project: Kubernetes Cluster for Game Servers and DevOps Au
 
 This project focuses on deploying a fully functional **baremetal Kubernetes cluster** optimized for hosting **Minecraft servers** and other containerized applications. Through this project, we integrate modern DevOps tools and practices, including **GitOps automation** via **GitLab CI/CD pipelines**, **security scanning** with **Trivy**, **performance monitoring** using **Prometheus and Grafana**, and **persistent storage management** with **Rook/Ceph**.
 
-We take Kubernetes to the next level by enhancing the cluster's **scalability**, **security**, and **observability**, using cutting-edge tools such as **Ingress Controllers**, **Horizontal Pod Autoscalers (HPA)**, **Role-Based Access Control (RBAC)**, and a **Service Mesh** like **Istio**.
+We take Kubernetes to the next level by enhancing the cluster's **scalability**, **security**, and **observability**, using cutting-edge tools such as **Ingress Controllers**, **Horizontal Pod Autoscalers (HPA)**, **Role-Based Access Control (RBAC)**, and a **Service Mesh** like **Istio*.
 
 ## 🌟 **Key Features**:
 - **Scalable Kubernetes Cluster** on physical hardware for optimal game server hosting.
