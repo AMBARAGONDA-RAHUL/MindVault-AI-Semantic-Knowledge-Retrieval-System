@@ -21,7 +21,7 @@ kubectl apply -f https://gitlab.com/gitlab-org/ci-cd/gitlab-runner-kubernetes/ra
 This will deploy the GitLab Runner into your Kubernetes cluster, where it will be responsible for running the pipeline jobs.
 
 #### Step 2: Register GitLab Runner with Your GitLab Instance 
-
+ 
 Once the runner is deployed, we need to register it with your GitLab instance. Run the following command to get the registration token:
 
 ```bash
