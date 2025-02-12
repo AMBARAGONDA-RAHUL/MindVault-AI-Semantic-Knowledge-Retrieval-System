@@ -3,7 +3,7 @@
 This project is a step-by-step guide to deploying a secure, scalable Kubernetes cluster for hosting game servers and automating DevOps workflows using GitOps, CI/CD, and advanced monitoring techniques.
 
 ---
-
+ 
 ## **Module 1: Project Setup**   
  
 ### Introduction
