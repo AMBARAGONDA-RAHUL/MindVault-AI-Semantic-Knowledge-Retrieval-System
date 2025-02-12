@@ -6,7 +6,7 @@ In this module, we will set up a GitOps-based CI/CD pipeline using **GitLab** to
 
 ---
 
-### 1. Deploy GitLab Runner 🚀  
+### 1. Deploy GitLab Runner 🚀   
 
 First, we need to deploy a **GitLab Runner** on our Kubernetes cluster to handle the CI/CD pipeline tasks.    
 
