@@ -11,7 +11,7 @@ This project is a step-by-step guide to deploying a secure, scalable Kubernetes 
 In this module, we will guide you through the process of setting up the necessary software, configuring your Kubernetes cluster on bare metal, and preparing it for the next steps in the game server deployment and DevOps automation pipeline.
 
 ---
-
+ 
 ### 1. Install Required Software
 
 Before we begin setting up Kubernetes, ensure that the required software is installed on all your nodes (control plane and worker nodes).
