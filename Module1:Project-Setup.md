@@ -4,7 +4,7 @@ This project is a step-by-step guide to deploying a secure, scalable Kubernetes 
 
 ---
 
-## **Module 1: Project Setup** 
+## **Module 1: Project Setup**  
  
 ### Introduction
 
