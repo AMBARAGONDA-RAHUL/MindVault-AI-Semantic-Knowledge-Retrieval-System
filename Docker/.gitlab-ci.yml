@@ -1,7 +1,7 @@
 stages:     
   - build  
   - deploy
-  - monitor
+  - monitor 
 
 # Build Docker Image
 build_image:
