@@ -13,7 +13,7 @@ First, we need to deploy a **GitLab Runner** on our Kubernetes cluster to handle
 #### Step 1: Install GitLab Runner on Kubernetes
 
 We will install the GitLab Runner as a Kubernetes deployment. To do this, run the following commands:
-
+ 
 ```bash
 kubectl apply -f https://gitlab.com/gitlab-org/ci-cd/gitlab-runner-kubernetes/raw/master/deployment.yaml
 ```
