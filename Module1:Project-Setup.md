@@ -18,7 +18,7 @@ Before we begin setting up Kubernetes, ensure that the required software is inst
 
 #### Step 1: Update System
 
-First, update the system package lists to ensure you have the latest software repositories.
+First, update the system package lists to ensure you have the latest software repositories. 
 
 ```bash
 sudo apt update
