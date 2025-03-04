@@ -1,4 +1,4 @@
-## Module 4: Monitoring & Metrics  
+## Module 4: Monitoring & Metrics   
 
 ### Introduction
 
