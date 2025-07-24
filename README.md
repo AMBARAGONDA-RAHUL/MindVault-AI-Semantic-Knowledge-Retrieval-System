@@ -22,7 +22,7 @@
 
 ## 📊 Architecture Overview
 
-![MindVault Architecture](docs/mindvault_architecture.png)
+![MindVault Architecture]<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2418b3f9-3f06-438e-9acf-6c8b96ca2881" />
 
 - **Frontend**: Streamlit dashboards for interaction and visualization  
 - **Backend**: Python + FastAPI with NLP/embeddings pipeline  
