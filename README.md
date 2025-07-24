@@ -134,18 +134,5 @@ MindVault AI is a personal memory assistant. Your data stays on your machine unl
 
 ---
 
-```
-
----
-
-### 🔧 Next Steps
-- Save this as `README.md` in your GitHub repo
-- Add these image assets:
-  - `docs/mindvault_dashboard_preview.png` – screenshot of dashboard
-  - `docs/mindvault_architecture.png` – architecture diagram (I can help you design one!)
-- Push to GitHub and link the repo on your resume under “Projects”
-
-Would you like me to design a **clean architecture diagram** next to include in this `docs/` folder?
-```
 
 
