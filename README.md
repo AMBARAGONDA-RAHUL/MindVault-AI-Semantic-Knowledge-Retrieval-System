@@ -2,8 +2,10 @@
 
 > “Never forget what you’ve learned.”  
 > An AI-powered personal memory engine that lets you **search your thoughts, notes, and files using natural language**. Built for **students, professionals, and researchers** who want to retain knowledge and boost productivity.
+> 
 
-![MindVault Preview]<img width="850" height="356" alt="Image" src="https://github.com/user-attachments/assets/8f8384ca-aefc-4cbc-88ca-8262efe9a7d2" />
+<img width="850" height="356" alt="Image" src="https://github.com/user-attachments/assets/8f8384ca-aefc-4cbc-88ca-8262efe9a7d2" />
+
 
 ---
 
