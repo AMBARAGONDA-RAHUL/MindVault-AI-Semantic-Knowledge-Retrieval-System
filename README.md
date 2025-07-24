@@ -22,7 +22,7 @@
 
 ## 📊 Architecture Overview
 
-<img width="1236" height="924" alt="Image" src="https://github.com/user-attachments/assets/2418b3f9-3f06-438e-9acf-6c8b96ca2881" />
+<img width="1036" height="824" alt="Image" src="https://github.com/user-attachments/assets/2418b3f9-3f06-438e-9acf-6c8b96ca2881" />
 
 - **Frontend**: Streamlit dashboards for interaction and visualization  
 - **Backend**: Python + FastAPI with NLP/embeddings pipeline  
