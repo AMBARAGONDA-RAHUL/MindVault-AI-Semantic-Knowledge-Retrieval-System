@@ -61,15 +61,34 @@
 
 MindVault-AI/
 ├── README.md
+├── LICENSE
 ├── requirements.txt
+├── setup.py            # If packaging as a Python package
+├── data/
+│   ├── raw/            # Unprocessed user notes, PDFs, emails etc (sample or dummy data)
+│   └── processed/      # Cleaned and vectorized data
+├── notebooks/          # Jupyter notebooks for prototyping and experiments
 ├── src/
-│   ├── api/                  # FastAPI backend
-│   ├── data\_processing/      # Preprocessing, embeddings, OCR
-│   ├── semantic\_search/      # Vector DB + LangChain queries
-│   └── visualization/        # Streamlit dashboards
-├── notebooks/                # Prototyping
-├── tests/                    # Unit tests
-└── docs/                     # Architecture, diagrams, screenshots
+│   ├── data_processing/
+│   │   ├── __init__.py
+│   │   ├── ocr.py       # OCR code for extracting text
+│   │   ├── embeddings.py # Code for generating vector embeddings
+│   │   └── preprocessing.py
+│   ├── semantic_search/
+│   │   ├── __init__.py
+│   │   ├── search.py    # Core semantic search functionality
+│   │   └── langchain_utils.py
+│   ├── api/
+│   │   ├── __init__.py
+│   │   └── fastapi_app.py  # FastAPI app for serving queries
+│   └── visualization/
+│       ├── __init__.py
+│       └── dashboard.py  # Streamlit dashboards
+├── tests/               # Unit tests
+│   ├── __init__.py
+│   └── test_search.py
+└── docs/                # Project documentation and design notes
+
 
 ```
 
